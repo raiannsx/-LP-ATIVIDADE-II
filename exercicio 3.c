@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
     int main() {
-  int nota;
+  int nota = 0;
 
      if (nota >= 9.0) {
         printf("Classificação: Excelente\n");
